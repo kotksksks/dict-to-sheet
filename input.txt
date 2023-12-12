@@ -1,0 +1,8 @@
+regiment	1
+leared	1
+abundant	1
+undaunted	1
+resilient	1
+riveted	1
+gumption	1
+determination	2
